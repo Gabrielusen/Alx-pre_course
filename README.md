@@ -1,1 +1,1 @@
-read me for ALX
+ALX SChool
