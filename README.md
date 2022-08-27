@@ -1,1 +1,1 @@
-read me for ALX
+README for ALX School
